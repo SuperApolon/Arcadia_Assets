@@ -1,0 +1,121 @@
+Swift’s reaction was quick the moment he realized it was loot.
+
+“Elts, you take it,” he said, smiling. Rins nodded in agreement.
+
+Elts knew that trying to decline politely would be disrespectful. With a smile, he thanked them.
+
+After the fight, the trio settled in the shadow near the cliff, opening their Personal Books to rest.
+
+“HP 87… you took quite a beating,” Swift remarked.
+
+Elts glanced at his own stats and froze.
+
+“HP 56…”
+
+“Ha! You pushed yourself too hard. Let’s rest a bit,” Swift laughed.
+
+Then Swift noticed something unusual on his screen.
+
+“Wait… no experience points? Did anyone else get any?”
+
+“Nope, same here,” Elts said.
+
+“Me too,” Rins confirmed.
+
+Swift frowned.
+
+“And it says ‘Not currently in a party.’ How do we even form one?”
+
+“There’s a tab in the status screen labeled ‘Party Formation.’ Maybe that’s it,” Elts suggested. Clicking it revealed the interface.
+
+■ Party (Current: 1 member)
+☆Elts
+
+■ Party Formation
+Invite to party > From communication range / Friend list
+
+Elts selected “From communication range,” and the names Swift and Rins appeared.
+
+■ Party (Current: 1 member)
+☆Elts
+
+■ Party Formation
+Invite >
+Swift >>> Invite
+Rins >>> Invite
+
+Clicking ‘Invite’ sent the request. Swift and Rins received it.
+
+“Ah, got an invite,” Swift said.
+
+“Clicked ‘Accept,’” Rins replied.
+
+Their Personal Books updated:
+
+■ Party (Current: 3 members)
+☆Elts
+Lins
+Swift
+
+■ Party Formation
+Invite to party > From communication range / Friend list
+
+“There—‘In Party’,” Swift said.
+
+“So that’s how you form a party… why didn’t Cricket tell us?”
+
+They closed their Personal Books. On Elts’ screen, red dots marked monsters nearby.
+
+“Let’s target the Lv1 ones first,” he said. Using Map Scan, they checked the monsters’ levels and prepared to hunt again.
+
+Already practiced from the morning skirmish, the trio worked smoothly. Elts lured a crab from the group with a stone, bringing it within range of Swift and Rins, who flanked it with knives.
+
+“Hey, looks like we can damage it without flipping it this time,” Swift noted.
+
+“True… watch out!” Elts dodged the crab’s claw, striking. A faint glow of life energy rose into the air.
+
+Before Elts could kick it over, Rins’ precise thrust caused the Shamelot to disintegrate into particles.
+
+“Done already? That was fragile,” Swift commented, brushing the drifting particles aside.
+
+Elts considered it.
+
+“Probably, the first one we fought was higher level,” he concluded.
+
+“Oh… makes sense,” Swift murmured, watching the fading particles.
+
+“And no drops this time?”
+
+“Not every fight drops loot,” Elts explained.
+
+Opening their Personal Books, they confirmed no experience points had been gained.
+
+“Do we get XP only when solo?” Swift wondered.
+
+Elts shook his head.
+
+“That would be absurd. If experience only counted solo, this wouldn’t be a true MMORPG. Multiplayer participation is the point. There must be another explanation.”
+
+“Let’s experiment. Solo hunt, then,” Elts proposed.
+
+“Okay, I’ll do the same,” Swift agreed.
+
+They disbanded the party temporarily and each faced a single target alone. Lv1 Shamelots were dispatched one-on-one, power attacks only. After the fight, experience points appeared correctly.
+
+“Solo, we get XP,” Elts said.
+
+Analyzing the patterns, Elts deduced the system:
+
+First fight: Lv3 Shamelot, in a party → little/no XP
+
+Second fight: Lv1 Shamelot, in a party → little XP
+
+Solo fights: XP awarded correctly
+
+Conclusion: experience is divided among party members. To gain meaningful XP in a party, one must fight monsters at or above one’s level. Lv1 solo against Lv3 would yield reasonable XP.
+
+“Got it. Solo is more efficient for now,” Elts decided.
+
+From this brief combat, his keen analytical skills had extracted precise information. The same sharp insight that had served him against Koza now earned the trust of Swift and Rins.
+
+Though brief, the bond between them was solidifying. In this new world, they were beginning to trust each other.

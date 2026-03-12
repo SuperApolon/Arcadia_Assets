@@ -1,0 +1,71 @@
+Elz left the shop and headed next door. Inside, rows of linen clothing welcomed him through the display cases—the armor shop.
+
+Opening his Personal Book, he immediately scanned the items.
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+Items for Purchase – Price (Detected types: 5)
+□×1 Traveler’s Hat – 36 ELK
+□×1 Traveler’s Tunic – 51 ELK <E>
+□×1 Traveler’s Pants – 47 ELK <E>
+□×1 Traveler’s Boots – 30 ELK <E>
+□×1 Rabbitstone Necklace – 25 ELK
+● Purchase
+● Clear Settings
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+The armor shop offered five items. The <E> marker likely indicated “equipped,” meaning the only items Elz had yet to equip were the [Traveler’s Hat] and the [Rabbitstone Necklace]. Clicking an item revealed its details:
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+Card Name: Traveler’s Hat
+Type: Armor – Head
+Description: A linen hat worn by travelers.
+Equip Effect: Physical Defense +1
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+Card Name: Rabbitstone Necklace
+Type: Armor – Accessory
+Description: A necklace crafted from a mysterious mineral produced within Woopy.
+Equip Effect: Physical Defense +1
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+Analyzing the information, Elz deduced the best course of action. The [Rabbitstone Necklace] seemed weaker than his currently equipped [Novice Graduation Badge]. So, from these two shops, the items worth purchasing were the [Copper Sword: 87 ELK] and the [Traveler’s Hat: 36 ELK].
+
+Elz currently had 141 ELK—enough to afford both. But considering upcoming expenses, including dinner, buying both would be a bold move. A cautious, prudent player might choose only one.
+
+Which should he prioritize: increasing attack or increasing defense?
+
+After a moment of consideration, Elz checked the following on the purchase screen:
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+Items for Purchase – Price (Detected types: 5)
+〆×1 Traveler’s Hat – 36 ELK
+□×1 Traveler’s Tunic – 51 ELK <E>
+□×1 Traveler’s Pants – 47 ELK <E>
+□×1 Traveler’s Boots – 30 ELK <E>
+□×1 Rabbitstone Necklace – 25 ELK
+● Purchase – 36 ELK
+● Clear Settings
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+Defense it would be, then. Without hesitation, he clicked [Purchase], and hurried back to the neighboring shop. Next…
+
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+Items for Purchase – Price (Detected types: 5)
+□×1 Copper Short Sword – 49 ELK <E>
+〆×1 Copper Sword – 87 ELK
+□×1 Copper Spear – 111 ELK
+□×1 Copper Axe – 143 ELK
+□×1 Copper Bow – 99 ELK
+● Purchase – 87 ELK
+● Clear Settings
+■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■
+
+Again, without a trace of hesitation, he clicked [Purchase]. Did this man even know the meaning of “doubt”? Or was he just the kind commonly called reckless? With the two desired items in hand, his remaining funds were 18 ELK. A small grin crept across Elz’s face.
+
+“Catch two rabbits, get two rabbits,” he muttered—his personal motto.
+
+Quickly, he equipped his new gear. The [Copper Sword] rested heavily and proudly at his side, heavier than the short sword, while he adjusted the linen hat on his head. Feeling confident, he returned to the village.
+
+The time was 16:15—still some time before the meeting.
+
+Elz set his sights on the northern village path, disappearing slowly along the gentle wooden walkway.
