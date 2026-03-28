@@ -1,0 +1,77 @@
+{
+  "_comment": [
+    "unlock フィールド説明（店舗・アイテム両方に設定可能）:",
+    "  chapter    : 解放チャプター番号（省略時=1）。このchapter以上になると表示。",
+    "  minScene   : 同チャプター内でのシーン解放閾値（省略時=0）。",
+    "               chapter一致 かつ sceneIdx >= minScene で解放。",
+    "               別chapterの場合は minScene 不問で解放。",
+    "  maxChapter : このchapterを超えたら非表示（省略時=無制限）。",
+    "店舗unlock: 条件を満たさない店舗はタブごと非表示。",
+    "アイテムunlock: 条件を満たさないアイテムは商品リストから非表示。"
+  ],
+  "shops": [
+    {
+      "id": "iruka_zakka",
+      "name": "イルカ島の雑貨屋",
+      "unlock": { "chapter": 2, "minScene": 0 },
+      "items": [
+        { "id": "copper_dagger",     "name": "銅の短剣",   "type": "weapon", "basePatk": 3,  "basePdef": 0, "price": 70  },
+        { "id": "copper_sword",      "name": "銅の剣",     "type": "weapon", "basePatk": 6,  "basePdef": 0, "price": 90  },
+        { "id": "copper_greatsword", "name": "銅の大剣",   "type": "weapon", "basePatk": 10, "basePdef": 0, "price": 135 },
+        { "id": "copper_lance",      "name": "銅の長槍",   "type": "weapon", "basePatk": 8,  "basePdef": 0, "price": 110 },
+        { "id": "copper_axe",        "name": "銅の斧",     "type": "weapon", "basePatk": 9,  "basePdef": 0, "price": 120 },
+        { "id": "copper_bow",        "name": "銅の弓",     "type": "weapon", "basePatk": 5,  "basePdef": 0, "price": 80  },
+        { "id": "traveler_clothes",  "name": "旅人の服",   "type": "armor",  "basePatk": 0,  "basePdef": 3, "price": 75  }
+      ]
+    },
+    {
+      "id": "stiaroof_dutyfree",
+      "name": "スティアルーフ港－免税店",
+      "unlock": { "chapter": 2, "minScene": 1 },
+      "items": [
+        {
+          "id": "bronze_ring_stiaroof",
+          "name": "銅の指輪ブロンズリング＜STIAROOF MODEL＞",
+          "type": "accessory", "basePatk": 1, "basePdef": 1, "price": 150
+        }
+      ]
+    },
+    {
+      "id": "stiaroof_forcted_barok",
+      "name": "スティアルーフ－Forcted Barok",
+      "unlock": { "chapter": 2, "minScene": 4 },
+      "items": [
+        { "id": "baroque_knife",  "name": "バロックナイフ",   "type": "weapon", "basePatk": 9,  "basePdef": 0, "price": 180 },
+        { "id": "baroque_sword",  "name": "バロックソード",   "type": "weapon", "basePatk": 11, "basePdef": 0, "price": 200 },
+        { "id": "baroque_blade",  "name": "バロックブレード", "type": "weapon", "basePatk": 14, "basePdef": 0, "price": 300 },
+        { "id": "baroque_lance",  "name": "バロックランス",   "type": "weapon", "basePatk": 12, "basePdef": 0, "price": 235 },
+        { "id": "baroque_axe",    "name": "バロックアクス",   "type": "weapon", "basePatk": 13, "basePdef": 0, "price": 256 },
+        { "id": "baroque_bow",    "name": "バロックボウ",     "type": "weapon", "basePatk": 10, "basePdef": 0, "price": 190 }
+      ]
+    },
+    {
+      "id": "stiaroof_luna_lee",
+      "name": "スティアルーフ－LUNA LEE",
+      "unlock": { "chapter": 2, "minScene": 6 },
+      "items": [
+        { "id": "fire_rod",    "name": "ファイアロッド",   "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
+        { "id": "water_rod",   "name": "ウォーターロッド", "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
+        { "id": "stone_rod",   "name": "ストーンロッド",   "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
+        { "id": "air_rod",     "name": "エアロッド",       "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
+        { "id": "thunder_rod", "name": "サンダーロッド",   "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
+        { "id": "woopy_cotton",     "name": "ウーピィの綿服",   "type": "armor", "basePatk": 0, "basePdef": 5,  "price": 132 },
+        { "id": "cockatrice_vest",  "name": "コカトリスベスト", "type": "armor", "basePatk": 0, "basePdef": 10, "price": 356 },
+        { "id": "bazelard_feather", "name": "バゼラードの羽服", "type": "armor", "basePatk": 0, "basePdef": 18, "price": 898 },
+        { "id": "fire_rod_ii",        "name": "ファイアロッドII",   "type": "weapon",    "basePatk": 15, "basePdef": 0, "price": 1500, "unlock": { "chapter": 3 } },
+        { "id": "water_rod_ii",       "name": "ウォーターロッドII", "type": "weapon",    "basePatk": 15, "basePdef": 0, "price": 1500, "unlock": { "chapter": 3 } },
+        { "id": "stone_rod_ii",       "name": "ストーンロッドII",   "type": "weapon",    "basePatk": 15, "basePdef": 0, "price": 1500, "unlock": { "chapter": 3 } },
+        { "id": "air_rod_ii",         "name": "エアロッドII",       "type": "weapon",    "basePatk": 15, "basePdef": 0, "price": 1500, "unlock": { "chapter": 3 } },
+        { "id": "thunder_rod_ii",     "name": "サンダーロッドII",   "type": "weapon",    "basePatk": 15, "basePdef": 0, "price": 1500, "unlock": { "chapter": 3 } },
+        { "id": "red_glass_ring",     "name": "赤硝石の指輪",       "type": "accessory", "basePatk": 3,  "basePdef": 2, "price": 498,  "unlock": { "chapter": 3 } },
+        { "id": "phoenix_ring",       "name": "鳳凰石の指輪",       "type": "accessory", "basePatk": 5,  "basePdef": 4, "price": 1123, "unlock": { "chapter": 3 } },
+        { "id": "blue_glass_necklace","name": "青硝石の首飾り",      "type": "accessory", "basePatk": 2,  "basePdef": 3, "price": 512,  "unlock": { "chapter": 3 } },
+        { "id": "agate_necklace",     "name": "蒼瑪瑙の首飾り",     "type": "accessory", "basePatk": 3,  "basePdef": 5, "price": 887,  "unlock": { "chapter": 3 } }
+      ]
+    }
+  ]
+}
