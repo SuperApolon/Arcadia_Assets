@@ -57,7 +57,7 @@
         { "id": "fire_rod",    "name": "ファイアロッド",   "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
         { "id": "water_rod",   "name": "ウォーターロッド", "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
         { "id": "stone_rod",   "name": "ストーンロッド",   "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
-        { "id": "air_rod",     "name": "エアロッド",       "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
+        { "id": "air_rod",     "name": "エアロッド",       "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150,"unlock": { "chapter": 3 } },
         { "id": "thunder_rod", "name": "サンダーロッド",   "type": "weapon", "basePatk": 5, "basePdef": 0, "price": 150 },
         { "id": "woopy_cotton",     "name": "ウーピィの綿服",   "type": "armor", "basePatk": 0, "basePdef": 5,  "price": 132 },
         { "id": "cockatrice_vest",  "name": "コカトリスベスト", "type": "armor", "basePatk": 0, "basePdef": 10, "price": 356 },
