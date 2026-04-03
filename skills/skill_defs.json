@@ -1,3 +1,59 @@
+// ── SKILL_DEFS ────────────────────────────────────────────────────────────
+// [フィールド説明]
+//
+// === フェーズ制御 ===
+//   isPrephase  : bool   プリフェイズ（SPD計算前）に行動する
+//   isEndphase  : bool   エンドフェイズ（全行動後）に行動する
+//   ※ どちらもfalseならメインフェイズ（SPD順）
+//
+// === ダメージ ===
+//   dmgType     : "physical"|"magic"|"fixed"
+//   baseDmg     : [min, max]   1ヒットあたりの乱数基礎値
+//   weaponMult  : bool         武器種補正を掛けるか
+//   atkMult     : bool         使用者ATKボーナスを加算するか
+//   dmgMult     : number       スキルダメージ係数
+//   hits        : number       ヒット回数（0=ダメージなし）
+//   target      : "single"|"all"
+//   element     : null|"fire"|"ice"|"thunder"|"earth"
+//   pierceCounter : bool       敵カウンターを貫通してダメージを通す
+//   comboBonus  : number       行動不能状態の敵へのダメージ係数（1.0=無効果）
+//
+// === 回復 ===
+//   healFlat    : number       固定HP回復量（対象: healTarget で指定）
+//   healTarget  : "self"|"party"
+//
+// === 状態付与（敵） ===
+//   enemyStun   : number       行動不能付与ターン数（0=なし）
+//   enemyForceAction : null|"atk"|"dodge"
+//                              敵の行動を強制変更（"atk"=挑発相当、"dodge"=逃げさせる）
+//                              適用ターン数は enemyForceActionTurns で指定
+//   enemyForceActionTurns : number
+//
+// === デバフ（敵） ===
+//   enemyDebuff : {
+//     target   : "single"|"all",
+//     turns    : number,
+//     patk     : number,   // 0=変化なし、0.5=半減、など係数で指定
+//     pdef     : number,
+//     matk     : number,
+//     mdef     : number,
+//     spd      : number,   // 絶対値で減算（例: -5）
+//   } | null
+//
+// === バフ（味方） ===
+//   selfBuff : {
+//     target  : "self"|"party",
+//     turns   : number,    // 0=永続
+//     patk    : number,    // 加算値（永続バフ用）
+//     pdef    : number,
+//     matk    : number,
+//     mdef    : number,
+//     spd     : number,
+//   } | null
+//
+// === その他 ===
+//   enrageBreak : bool         怒り状態を解除する
+//   cooldown    : number       使用後CDターン数
 {
   "atk": {
     "label": "強攻",
